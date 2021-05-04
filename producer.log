@@ -1,0 +1,1419 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T18%3A54%3A46&to=2021-05-04T22%3A54%3A46&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:{'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:{'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:{'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:{'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:{'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:{'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:{'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:{'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:{'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'American Water Works Co Inc (AWK) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:55Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Planetizen.com'}, 'author': 'Planetizen', 'title': 'Pandemic Endgame: Redefining the Herd Immunity Goal', 'publishedAt': '2021-05-04T19:00:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Miami Herald', 'title': 'Gwyneth Paltrow is now a wellness adviser for a cruise ship. This could get weird', 'publishedAt': '2021-05-04T18:59:40Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:{'source': {'id': None, 'name': 'Washington Free Beacon'}, 'author': 'Jack Beyrer, Jack Beyrer', 'title': 'DEA Official: Mexican Cartels Smuggling Fentanyl Across Border With Impunity', 'publishedAt': '2021-05-04T19:00:35Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNA'}, 'author': 'CNA', 'title': "VP Harris says US 'must respond' to El Salvador political crisis", 'publishedAt': '2021-05-04T18:56:04Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:{'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:{'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Leidos Holdings Inc (LDOS) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Jim Hoft', 'title': 'Antrim County Plaintiffs Introduce New Evidence in 2020 Election Case — Experts Were Able to Compromise Data on Data and Flip Votes', 'publishedAt': '2021-05-04T19:49:25Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Paul Waldman', 'title': 'Is our national crisis over? The right answer is that it doesn’t matter.', 'publishedAt': '2021-05-04T20:04:16Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Alexander Tin', 'title': 'Your COVID vaccine booster might be a patch or a pill', 'publishedAt': '2021-05-04T19:40:13Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Nicole Fallert', 'title': "Mitt Romney Praises Liz Cheney for 'Refusing to Lie,' Offers GOP Support", 'publishedAt': '2021-05-04T19:58:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawyersgunsmoneyblog.com'}, 'author': 'Scott Lemieux', 'title': 'Republicans to officially make opposing sedition disqualifying for party leadership', 'publishedAt': '2021-05-04T20:03:23Z'}
+INFO:root:{'source': {'id': 'bloomberg', 'name': 'Bloomberg'}, 'author': 'Jennifer Epstein', 'title': 'Biden Says He Expects to Meet Putin During June Europe Trip', 'publishedAt': '2021-05-04T19:15:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'SA Transcripts', 'title': 'American Water Works Company, Inc. (AWK) CEO Walter Lynch on Q1 2021 Results - Earnings Call Transcript', 'publishedAt': '2021-05-04T19:19:13Z'}
+INFO:root:{'source': {'id': None, 'name': 'The National Interest '}, 'author': 'Eli Fuhrman', 'title': 'Stimulus Check Fist Fight? Social Media Is Going Wild About This Video.', 'publishedAt': '2021-05-04T19:57:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': None, 'title': 'Biden calls Emirates leader', 'publishedAt': '2021-05-04T19:53:08Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T18%3A55%3A39&to=2021-05-04T22%3A55%3A39&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:{'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:{'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:{'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:{'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:{'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:{'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:{'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:{'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:{'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'American Water Works Co Inc (AWK) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:55Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Planetizen.com'}, 'author': 'Planetizen', 'title': 'Pandemic Endgame: Redefining the Herd Immunity Goal', 'publishedAt': '2021-05-04T19:00:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Miami Herald', 'title': 'Gwyneth Paltrow is now a wellness adviser for a cruise ship. This could get weird', 'publishedAt': '2021-05-04T18:59:40Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:{'source': {'id': None, 'name': 'Washington Free Beacon'}, 'author': 'Jack Beyrer, Jack Beyrer', 'title': 'DEA Official: Mexican Cartels Smuggling Fentanyl Across Border With Impunity', 'publishedAt': '2021-05-04T19:00:35Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNA'}, 'author': 'CNA', 'title': "VP Harris says US 'must respond' to El Salvador political crisis", 'publishedAt': '2021-05-04T18:56:04Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:{'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:{'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Leidos Holdings Inc (LDOS) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Jim Hoft', 'title': 'Antrim County Plaintiffs Introduce New Evidence in 2020 Election Case — Experts Were Able to Compromise Data on Data and Flip Votes', 'publishedAt': '2021-05-04T19:49:25Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Paul Waldman', 'title': 'Is our national crisis over? The right answer is that it doesn’t matter.', 'publishedAt': '2021-05-04T20:04:16Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Alexander Tin', 'title': 'Your COVID vaccine booster might be a patch or a pill', 'publishedAt': '2021-05-04T19:40:13Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Nicole Fallert', 'title': "Mitt Romney Praises Liz Cheney for 'Refusing to Lie,' Offers GOP Support", 'publishedAt': '2021-05-04T19:58:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawyersgunsmoneyblog.com'}, 'author': 'Scott Lemieux', 'title': 'Republicans to officially make opposing sedition disqualifying for party leadership', 'publishedAt': '2021-05-04T20:03:23Z'}
+INFO:root:{'source': {'id': 'bloomberg', 'name': 'Bloomberg'}, 'author': 'Jennifer Epstein', 'title': 'Biden Says He Expects to Meet Putin During June Europe Trip', 'publishedAt': '2021-05-04T19:15:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'SA Transcripts', 'title': 'American Water Works Company, Inc. (AWK) CEO Walter Lynch on Q1 2021 Results - Earnings Call Transcript', 'publishedAt': '2021-05-04T19:19:13Z'}
+INFO:root:{'source': {'id': None, 'name': 'The National Interest '}, 'author': 'Eli Fuhrman', 'title': 'Stimulus Check Fist Fight? Social Media Is Going Wild About This Video.', 'publishedAt': '2021-05-04T19:57:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': None, 'title': 'Biden calls Emirates leader', 'publishedAt': '2021-05-04T19:53:08Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T18%3A57%3A26&to=2021-05-04T22%3A57%3A26&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:{'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:{'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:{'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:{'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:{'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:{'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:{'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:{'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:{'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'American Water Works Co Inc (AWK) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:55Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Planetizen.com'}, 'author': 'Planetizen', 'title': 'Pandemic Endgame: Redefining the Herd Immunity Goal', 'publishedAt': '2021-05-04T19:00:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Miami Herald', 'title': 'Gwyneth Paltrow is now a wellness adviser for a cruise ship. This could get weird', 'publishedAt': '2021-05-04T18:59:40Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:{'source': {'id': None, 'name': 'Washington Free Beacon'}, 'author': 'Jack Beyrer, Jack Beyrer', 'title': 'DEA Official: Mexican Cartels Smuggling Fentanyl Across Border With Impunity', 'publishedAt': '2021-05-04T19:00:35Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:{'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:{'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Leidos Holdings Inc (LDOS) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Jim Hoft', 'title': 'Antrim County Plaintiffs Introduce New Evidence in 2020 Election Case — Experts Were Able to Compromise Data on Data and Flip Votes', 'publishedAt': '2021-05-04T19:49:25Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Paul Waldman', 'title': 'Is our national crisis over? The right answer is that it doesn’t matter.', 'publishedAt': '2021-05-04T20:04:16Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Alexander Tin', 'title': 'Your COVID vaccine booster might be a patch or a pill', 'publishedAt': '2021-05-04T19:40:13Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Nicole Fallert', 'title': "Mitt Romney Praises Liz Cheney for 'Refusing to Lie,' Offers GOP Support", 'publishedAt': '2021-05-04T19:58:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawyersgunsmoneyblog.com'}, 'author': 'Scott Lemieux', 'title': 'Republicans to officially make opposing sedition disqualifying for party leadership', 'publishedAt': '2021-05-04T20:03:23Z'}
+INFO:root:{'source': {'id': 'bloomberg', 'name': 'Bloomberg'}, 'author': 'Jennifer Epstein', 'title': 'Biden Says He Expects to Meet Putin During June Europe Trip', 'publishedAt': '2021-05-04T19:15:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'SA Transcripts', 'title': 'American Water Works Company, Inc. (AWK) CEO Walter Lynch on Q1 2021 Results - Earnings Call Transcript', 'publishedAt': '2021-05-04T19:19:13Z'}
+INFO:root:{'source': {'id': None, 'name': 'The National Interest '}, 'author': 'Eli Fuhrman', 'title': 'Stimulus Check Fist Fight? Social Media Is Going Wild About This Video.', 'publishedAt': '2021-05-04T19:57:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': None, 'title': 'Biden calls Emirates leader', 'publishedAt': '2021-05-04T19:53:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Franklin Resources Inc. (BEN) Q2 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T20:00:50Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:date=('Articles are pulled between', datetime.datetime(2021, 5, 4, 18, 59, 9, 528538), 'and', datetime.datetime(2021, 5, 4, 22, 59, 9, 528556))
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T18%3A59%3A09&to=2021-05-04T22%3A59%3A09&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Jessica Dinapoli', 'title': 'Business coalitions urge Texas lawmakers to reject voting restrictions - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:{'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Akanksha Rana,Tina Bellon', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:{'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:{'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:{'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:{'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:{'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Bryan Lowry', 'title': 'Missouri AG takes over GOP group facing scrutiny and staff shake-ups after Jan. 6', 'publishedAt': '2021-05-04T20:32:00Z'}
+INFO:root:{'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:{'source': {'id': 'rt', 'name': 'RT'}, 'author': 'RT', 'title': 'Biden wants 70% of Americans partially vaccinated by July 4, says some people ‘need more convincing’', 'publishedAt': '2021-05-04T20:40:31Z'}
+INFO:root:{'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:{'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:{'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:{'source': {'id': None, 'name': 'Above the Law'}, 'author': 'Tyler Broker', 'title': 'Prohibiting Harmless Consensual Or Self-Regarding Acts By Adults Is Bad Law And Policy', 'publishedAt': '2021-05-04T20:46:24Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:{'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Nicholas Reimann, Forbes Staff, \n Nicholas Reimann, Forbes Staff\n https://www.forbes.com/sites/nicholasreimann/', 'title': 'Tennessee Lawmaker Bizarrely Defends Three-Fifths Compromise As ‘Ending Slavery’', 'publishedAt': '2021-05-04T20:48:21Z'}
+INFO:root:{'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:{'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:{'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:{'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:{'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:{'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:{'source': {'id': None, 'name': 'New York Post'}, 'author': 'Steven Nelson', 'title': 'Biden confirms plans to meet Putin next month in Europe', 'publishedAt': '2021-05-04T20:39:30Z'}
+INFO:root:{'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:{'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:{'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:{'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:{'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'American Water Works Co Inc (AWK) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:55Z'}
+INFO:root:{'source': {'id': None, 'name': 'CNET'}, 'author': 'Clifford Colby', 'title': "Biden's next two stimulus bills: 5 ways the new packages could bring you more money - CNET", 'publishedAt': '2021-05-04T20:00:04Z'}
+INFO:root:{'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:{'source': {'id': None, 'name': 'Planetizen.com'}, 'author': 'Planetizen', 'title': 'Pandemic Endgame: Redefining the Herd Immunity Goal', 'publishedAt': '2021-05-04T19:00:00Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Miami Herald', 'title': 'Gwyneth Paltrow is now a wellness adviser for a cruise ship. This could get weird', 'publishedAt': '2021-05-04T18:59:40Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:{'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:{'source': {'id': None, 'name': 'Washington Free Beacon'}, 'author': 'Jack Beyrer, Jack Beyrer', 'title': 'DEA Official: Mexican Cartels Smuggling Fentanyl Across Border With Impunity', 'publishedAt': '2021-05-04T19:00:35Z'}
+INFO:root:{'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:{'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:{'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:{'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:{'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Oil pipeline builder agrees to halt eminent domain lawsuits', 'publishedAt': '2021-05-04T20:45:52Z'}
+INFO:root:{'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:{'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Leidos Holdings Inc (LDOS) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:36Z'}
+INFO:root:{'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:{'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:date=('Articles are pulled between', datetime.datetime(2021, 5, 4, 18, 59, 42, 242204), 'and', datetime.datetime(2021, 5, 4, 22, 59, 42, 242222))
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T18%3A59%3A42&to=2021-05-04T22%3A59%3A42&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:date={'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:date={'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Jessica Dinapoli', 'title': 'Business coalitions urge Texas lawmakers to reject voting restrictions - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:date={'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Akanksha Rana,Tina Bellon', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:date={'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:date={'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:date={'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:date={'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:date={'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:date={'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Bryan Lowry', 'title': 'Missouri AG takes over GOP group facing scrutiny and staff shake-ups after Jan. 6', 'publishedAt': '2021-05-04T20:32:00Z'}
+INFO:root:date={'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:date={'source': {'id': 'rt', 'name': 'RT'}, 'author': 'RT', 'title': 'Biden wants 70% of Americans partially vaccinated by July 4, says some people ‘need more convincing’', 'publishedAt': '2021-05-04T20:40:31Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Above the Law'}, 'author': 'Tyler Broker', 'title': 'Prohibiting Harmless Consensual Or Self-Regarding Acts By Adults Is Bad Law And Policy', 'publishedAt': '2021-05-04T20:46:24Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:date={'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Nicholas Reimann, Forbes Staff, \n Nicholas Reimann, Forbes Staff\n https://www.forbes.com/sites/nicholasreimann/', 'title': 'Tennessee Lawmaker Bizarrely Defends Three-Fifths Compromise As ‘Ending Slavery’', 'publishedAt': '2021-05-04T20:48:21Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:date={'source': {'id': None, 'name': 'New York Post'}, 'author': 'Steven Nelson', 'title': 'Biden confirms plans to meet Putin next month in Europe', 'publishedAt': '2021-05-04T20:39:30Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:date={'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:date={'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'American Water Works Co Inc (AWK) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:55Z'}
+INFO:root:date={'source': {'id': None, 'name': 'CNET'}, 'author': 'Clifford Colby', 'title': "Biden's next two stimulus bills: 5 ways the new packages could bring you more money - CNET", 'publishedAt': '2021-05-04T20:00:04Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Planetizen.com'}, 'author': 'Planetizen', 'title': 'Pandemic Endgame: Redefining the Herd Immunity Goal', 'publishedAt': '2021-05-04T19:00:00Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Washington Free Beacon'}, 'author': 'Jack Beyrer, Jack Beyrer', 'title': 'DEA Official: Mexican Cartels Smuggling Fentanyl Across Border With Impunity', 'publishedAt': '2021-05-04T19:00:35Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:date={'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Oil pipeline builder agrees to halt eminent domain lawsuits', 'publishedAt': '2021-05-04T20:45:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Leidos Holdings Inc (LDOS) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Post Magazine'}, 'author': 'Reuters, Reuters', 'title': 'Joe Biden’s new coronavirus goal: 70 per cent of US adults to get one vaccine dose by Independence Day', 'publishedAt': '2021-05-04T20:17:00Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:date=('Articles are pulled between', datetime.datetime(2021, 5, 4, 19, 0, 30, 924300), 'and', datetime.datetime(2021, 5, 4, 23, 0, 30, 924320))
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T19%3A00%3A30&to=2021-05-04T23%3A00%3A30&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:date={'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:date={'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Jessica Dinapoli', 'title': 'Business coalitions urge Texas lawmakers to reject voting restrictions - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:date={'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Akanksha Rana,Tina Bellon', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:date={'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:date={'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:date={'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:date={'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:date={'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:date={'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Bryan Lowry', 'title': 'Missouri AG takes over GOP group facing scrutiny and staff shake-ups after Jan. 6', 'publishedAt': '2021-05-04T20:32:00Z'}
+INFO:root:date={'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:date={'source': {'id': 'rt', 'name': 'RT'}, 'author': 'RT', 'title': 'Biden wants 70% of Americans partially vaccinated by July 4, says some people ‘need more convincing’', 'publishedAt': '2021-05-04T20:40:31Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Above the Law'}, 'author': 'Tyler Broker', 'title': 'Prohibiting Harmless Consensual Or Self-Regarding Acts By Adults Is Bad Law And Policy', 'publishedAt': '2021-05-04T20:46:24Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:date={'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Nicholas Reimann, Forbes Staff, \n Nicholas Reimann, Forbes Staff\n https://www.forbes.com/sites/nicholasreimann/', 'title': 'Tennessee Lawmaker Bizarrely Defends Three-Fifths Compromise As ‘Ending Slavery’', 'publishedAt': '2021-05-04T20:48:21Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:date={'source': {'id': None, 'name': 'New York Post'}, 'author': 'Steven Nelson', 'title': 'Biden confirms plans to meet Putin next month in Europe', 'publishedAt': '2021-05-04T20:39:30Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:date={'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:date={'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'American Water Works Co Inc (AWK) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:55Z'}
+INFO:root:date={'source': {'id': None, 'name': 'CNET'}, 'author': 'Clifford Colby', 'title': "Biden's next two stimulus bills: 5 ways the new packages could bring you more money - CNET", 'publishedAt': '2021-05-04T20:00:04Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Washington Free Beacon'}, 'author': 'Jack Beyrer, Jack Beyrer', 'title': 'DEA Official: Mexican Cartels Smuggling Fentanyl Across Border With Impunity', 'publishedAt': '2021-05-04T19:00:35Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:date={'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Oil pipeline builder agrees to halt eminent domain lawsuits', 'publishedAt': '2021-05-04T20:45:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Leidos Holdings Inc (LDOS) Q1 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:00:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Post Magazine'}, 'author': 'Reuters, Reuters', 'title': 'Joe Biden’s new coronavirus goal: 70 per cent of US adults to get one vaccine dose by Independence Day', 'publishedAt': '2021-05-04T20:17:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Jim Hoft', 'title': 'Antrim County Plaintiffs Introduce New Evidence in 2020 Election Case — Experts Were Able to Compromise Data on Data and Flip Votes', 'publishedAt': '2021-05-04T19:49:25Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:date=('Articles are pulled between', datetime.datetime(2021, 5, 4, 19, 0, 57, 45474), 'and', datetime.datetime(2021, 5, 4, 23, 0, 57, 45506))
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/everything?q=biden&from=2021-05-04T19%3A00%3A57&to=2021-05-04T23%3A00%3A57&language=en&pageSize=100 HTTP/1.1" 200 None
+INFO:root:date=('Retrieved Articles between', datetime.datetime(2021, 5, 4, 19, 0, 57, 45474), 'and', datetime.datetime(2021, 5, 4, 23, 0, 57, 45506), '=', 223)
+INFO:root:date={'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:date={'source': {'id': 'bbc-news', 'name': 'BBC News'}, 'author': 'https://www.facebook.com/bbcnews', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:04:23Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe - Reuters', 'publishedAt': '2021-05-04T19:22:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Daniel Wiessner', 'title': 'USCIS will suspend Trump-era biometric screening rule for work-permit applicants - Reuters', 'publishedAt': '2021-05-04T19:05:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Sebastien Malo', 'title': "IN BRIEF: Wyoming asks for immediate halt to Biden's oil and gas leasing pause - Reuters", 'publishedAt': '2021-05-04T19:13:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Jessica Dinapoli', 'title': 'Business coalitions urge Texas lawmakers to reject voting restrictions - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly, David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:26:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Stephanie Kelly,David Shepardson', 'title': 'U.S. House panel to discuss low-carbon fuel with airline, biofuel industries - Reuters', 'publishedAt': '2021-05-04T19:25:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Victor Reklaitis', 'title': 'Capitol Report: Biden aims for 70% of U.S. adults getting at least 1 vaccine dose by July 4', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:date={'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'MATTHEW DALY Associated Press', 'title': 'Republicans ask why White House removed climate scientist', 'publishedAt': '2021-05-04T20:02:24Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Tina Bellon, Akanksha Rana', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:07:00Z'}
+INFO:root:date={'source': {'id': 'reuters', 'name': 'Reuters'}, 'author': 'Akanksha Rana,Tina Bellon', 'title': 'Lyft slashes losses with ongoing cost cuts, maintains third-quarter profit target - Reuters', 'publishedAt': '2021-05-04T20:31:00Z'}
+INFO:root:date={'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'Biden sets goal of 70 percent vaccination by July 4', 'publishedAt': '2021-05-04T20:30:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Harry Litman', 'title': "Litman: Rudy Giuliani's outrage is the refuge of a scoundrel", 'publishedAt': '2021-05-04T19:14:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Intercept'}, 'author': 'Lee Fang', 'title': 'How Top White House Adviser Anita Dunn Is Dodging Ethics Disclosure', 'publishedAt': '2021-05-04T19:52:40Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Joe Walsh, Forbes Staff, \n Joe Walsh, Forbes Staff\n https://www.forbes.com/sites/joewalsh/', 'title': 'Biden Will Order Pharmacies To Offer Walk-In Covid Vaccines', 'publishedAt': '2021-05-04T19:35:24Z'}
+INFO:root:date={'source': {'id': 'abc-news', 'name': 'ABC News'}, 'author': 'ACACIA CORONADO and BILL BARROW Associated Press', 'title': 'GOP moves ahead with voting bills despite business warnings', 'publishedAt': '2021-05-04T19:59:51Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Alex Ledsom, Senior Contributor, \n Alex Ledsom, Senior Contributor\n https://www.forbes.com/sites/alexledsom/', 'title': 'U.S./U.K. Travel: Airlines Call For Opening Before G7 On 11 June', 'publishedAt': '2021-05-04T19:12:36Z'}
+INFO:root:date={'source': {'id': 'cbc-news', 'name': 'CBC News'}, 'author': 'The Associated Press', 'title': "Biden's new goal: 70% of Americans vaccinated for COVID-19 by July 4", 'publishedAt': '2021-05-04T19:36:12Z'}
+INFO:root:date={'source': {'id': None, 'name': 'New York Times'}, 'author': 'Jenny Gross and Adam Satariano', 'title': 'Amazon Paid No Corporate Tax to Luxembourg', 'publishedAt': '2021-05-04T19:35:40Z'}
+INFO:root:date={'source': {'id': 'national-review', 'name': 'National Review'}, 'author': 'Caroline Downey, Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'MarketWatch'}, 'author': 'Jonathan Nicholson', 'title': 'Capitol Report: Is the government running a ‘Ponzi gamble’ with debt? One famous economist warns it may end badly', 'publishedAt': '2021-05-04T20:24:00Z'}
+INFO:root:date={'source': {'id': 'al-jazeera-english', 'name': 'Al Jazeera English'}, 'author': 'Al Jazeera', 'title': 'US trade deficit soared to record $74.4bn in March', 'publishedAt': '2021-05-04T19:40:48Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Bryan Lowry', 'title': 'Missouri AG takes over GOP group facing scrutiny and staff shake-ups after Jan. 6', 'publishedAt': '2021-05-04T20:32:00Z'}
+INFO:root:date={'source': {'id': 'politico', 'name': 'Politico'}, 'author': 'Josh Gerstein', 'title': 'GOP pressures Garland on border', 'publishedAt': '2021-05-04T19:25:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Andrew Solender, Forbes Staff, \n Andrew Solender, Forbes Staff\n https://www.forbes.com/sites/andrewsolender/', 'title': 'Top Senate Republican Won’t Say If He Believes Election Was Fair', 'publishedAt': '2021-05-04T19:30:22Z'}
+INFO:root:date={'source': {'id': 'rt', 'name': 'RT'}, 'author': 'RT', 'title': 'Biden wants 70% of Americans partially vaccinated by July 4, says some people ‘need more convincing’', 'publishedAt': '2021-05-04T20:40:31Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Snopes.com'}, 'author': 'AP News', 'title': 'Biden Aims for Vaccinating 70% of Adult Americans by July 4', 'publishedAt': '2021-05-04T20:27:53Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Biden Carter: What’s going on in this picture?', 'publishedAt': '2021-05-04T19:44:19Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'BBC', 'title': 'Covid vaccine: Biden unveils plan to vaccinate young Americans', 'publishedAt': '2021-05-04T20:24:30Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Reuters', 'title': 'Biden says hopes to meet Putin during June trip to Europe', 'publishedAt': '2021-05-04T19:22:23Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Phys.Org'}, 'author': 'Alex Wigglesworth', 'title': 'California could get 600,000 acres of new federally protected wilderness', 'publishedAt': '2021-05-04T20:00:01Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Meritalk.com'}, 'author': None, 'title': 'Lawmakers Applaud TMF Payback Change; Tech Groups Crave Closer Role - MeriTalk', 'publishedAt': '2021-05-04T20:08:25Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Caroline Downey', 'title': 'Psaki Says Migrant Influx ‘Began during the Trump Administration’', 'publishedAt': '2021-05-04T19:36:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Week Magazine'}, 'author': "Tim O'Donnell", 'title': 'California gubernatorial candidate brought a 1,000-pound Kodiak bear to a press conference', 'publishedAt': '2021-05-04T20:15:00Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T19:42:29Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Stefan Becket, Grace Segers', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:19:29Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'CBS News', 'title': 'Biden sets goal of fully vaccinating 160 million adults by July 4', 'publishedAt': '2021-05-04T20:05:37Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Above the Law'}, 'author': 'Tyler Broker', 'title': 'Prohibiting Harmless Consensual Or Self-Regarding Acts By Adults Is Bad Law And Policy', 'publishedAt': '2021-05-04T20:46:24Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Edward Segal, Contributor, \n Edward Segal, Contributor\n https://www.forbes.com/sites/edwardsegal/', 'title': 'How Companies Could Be Impacted By Federal Policy Change On Freelancers', 'publishedAt': '2021-05-04T20:05:24Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Sarah Parshall Perry', 'title': 'Don’t Buy Deceptive Marketing of Violence Against Women Act', 'publishedAt': '2021-05-04T19:09:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Rapradar.com'}, 'author': 'Paul “Big Homie” Duong', 'title': 'Video: Locksmith “Hold On”', 'publishedAt': '2021-05-04T19:03:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Week Magazine'}, 'author': 'Brendan Morrow', 'title': 'Biden announces new goal of vaccinating 70 percent of American adults by July 4', 'publishedAt': '2021-05-04T19:47:18Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:10:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Jemima McEvoy, Forbes Staff, \n Jemima McEvoy, Forbes Staff\n https://www.forbes.com/sites/jemimamcevoy/', 'title': 'Texas Democrat Resigns After Calling Sen. Tim Scott An ‘Oreo’', 'publishedAt': '2021-05-04T19:25:45Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Brookings Institution'}, 'author': 'Constanze Stelzenmüller', 'title': 'Hello, Berlin? Germany’s future raises foreign policy concerns for allies', 'publishedAt': '2021-05-04T20:34:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Mediaite'}, 'author': 'Rudy Takala', 'title': 'Biden Doesn’t Rule Out Mandating Covid Vaccine for Travel, Prefers to ‘Think Positively’', 'publishedAt': '2021-05-04T20:02:39Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Christina Prignano', 'title': 'A recent history of presidential visits to Rhode Island', 'publishedAt': '2021-05-04T19:08:44Z'}
+INFO:root:date={'source': {'id': None, 'name': 'CNET'}, 'author': 'Michelle Meyers', 'title': "Biden's capital gains tax hike: What it means for your taxes - CNET", 'publishedAt': '2021-05-04T19:52:44Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Nicholas Reimann, Forbes Staff, \n Nicholas Reimann, Forbes Staff\n https://www.forbes.com/sites/nicholasreimann/', 'title': 'Tennessee Lawmaker Bizarrely Defends Three-Fifths Compromise As ‘Ending Slavery’', 'publishedAt': '2021-05-04T20:48:21Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Vanity Fair'}, 'author': 'Bess Levin', 'title': 'Rudy Giuliani Claims the Government Is “Trying to Frame” Him for Crimes He Totally Didn’t Commit', 'publishedAt': '2021-05-04T20:29:43Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Signal'}, 'author': 'Fred Lucas', 'title': 'How TSA Explains Allowing Illegal Immigrants to Fly With You', 'publishedAt': '2021-05-04T19:46:33Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Daily Beast'}, 'author': 'Justin Baragona', 'title': '‘We’re Hosting You’: WaPo Reporter Knocks Down Hawley Whining About Being Silenced During Interview', 'publishedAt': '2021-05-04T19:48:14Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Elizabeth Crisp', 'title': "Biden's New Goal: At Least One COVID Vaccine Shot for 70% of Adults by July 4", 'publishedAt': '2021-05-04T19:18:59Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Sputnik International'}, 'author': 'Morgan  Artyukhina . Sputnik International', 'title': 'China Passes 275 Million COVID-19 Vaccine Shots Mark as Campaign Hits 10 Million Per Day', 'publishedAt': '2021-05-04T19:55:49Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Babylonbee.com'}, 'author': 'The Babylon Bee', 'title': 'Biden: ‘With Enough Vaccinations, I’m Prepared To Authorize The Use Of Sparklers On The 4th Of July’', 'publishedAt': '2021-05-04T19:37:53Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Biden Says People Unwilling to Get Covid Vaccine Are “Lazy” and Will Cause Others to Die (VIDEO)', 'publishedAt': '2021-05-04T20:00:54Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Boston Herald'}, 'author': 'Rick Sobey', 'title': 'Biden launches plan to vaccinate kids 12-15, directs pharmacies to offer walk-in shots', 'publishedAt': '2021-05-04T20:25:25Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Rssdailynews.com'}, 'author': 'Jay Beiwan', 'title': 'Tens of hundreds of People are alive at the moment as a result of Joe Biden is president', 'publishedAt': '2021-05-04T20:06:32Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Natalie Colarossi', 'title': '2 GOP Reps Accuse White House of Removing Officials With Ties to Trump Administration', 'publishedAt': '2021-05-04T19:30:03Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Yahoo Entertainment'}, 'author': 'Aarthi Swaminathan', 'title': 'Former Education Department boss argues against student loan forgiveness and free community college', 'publishedAt': '2021-05-04T19:26:41Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Cristina Laila', 'title': 'Joe Biden Struggles to Read Teleprompter During Covid Speech, Then Says, “I’m Asking People to Continue to Follow the “CCD” Guidelines (VIDEO)', 'publishedAt': '2021-05-04T19:19:58Z'}
+INFO:root:date={'source': {'id': None, 'name': 'New York Post'}, 'author': 'Steven Nelson', 'title': 'Biden confirms plans to meet Putin next month in Europe', 'publishedAt': '2021-05-04T20:39:30Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Checkyourfact.com'}, 'author': 'Elias Atienza', 'title': 'FACT CHECK: Did A CBS News Poll Find 85% Of Americans Approved Of Biden’s Address To Congress?', 'publishedAt': '2021-05-04T20:27:47Z'}
+INFO:root:date={'source': {'id': None, 'name': 'ThinkAdvisor'}, 'author': 'Rita Nazareth and Claire Ballentine', 'title': 'Tech Selloff Sweeps Across Stocks; Yellen Says Rates May Rise - ThinkAdvisor', 'publishedAt': '2021-05-04T19:39:49Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Forbes'}, 'author': 'Ken Roberts, Contributor, \n Ken Roberts, Contributor\n https://www.forbes.com/sites/kenroberts/', 'title': 'New Data Shows 2021 U.S. Trade Soars Past Pre-Covid 2019 Record Total', 'publishedAt': '2021-05-04T19:30:07Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Israelnationalnews.com'}, 'author': 'Elad Benari', 'title': 'Biden stresses importance of Abraham Accords in conversation with UAE Crown Prince', 'publishedAt': '2021-05-04T20:23:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Fauci warns against discarding trade rules on Covid vaccines (Kiran Stacey/Financial Times)', 'publishedAt': '2021-05-04T19:35:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Memeorandum.com'}, 'author': None, 'title': 'Claims by Scott Stringer Accuser Unravel as Progressives Flee New York Mayoral Candidate (The Intercept)', 'publishedAt': '2021-05-04T19:10:00Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'Biden acknowledges difficulty of next stage of vaccine effort', 'publishedAt': '2021-05-04T20:17:25Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Nathaniel Weixel', 'title': 'House Republicans urge opposition to vaccine patent waiver', 'publishedAt': '2021-05-04T19:08:21Z'}
+INFO:root:date={'source': {'id': None, 'name': 'TechSpot'}, 'author': 'Adrian Potoroaca', 'title': 'Amazon paid no corporate tax in Europe last year despite record sales income', 'publishedAt': '2021-05-04T19:46:00Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Brett Samuels', 'title': 'Biden hopes to meet with Putin during June Europe trip', 'publishedAt': '2021-05-04T19:22:37Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Clara Hill', 'title': 'Nancy Pelosi mocks GOP men for being unable to handle party ‘girlfriend’ Liz Cheney', 'publishedAt': '2021-05-04T19:49:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Ms. Magazine'}, 'author': 'Makhfi Azizi', 'title': 'Hillary Clinton Warns of “Huge Consequences” Following U.S. Withdrawal from Afghanistan', 'publishedAt': '2021-05-04T20:27:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'The Boston Globe'}, 'author': 'Jeff Jacoby', 'title': 'Is America racist? Kamala Harris and Tim Scott say no.', 'publishedAt': '2021-05-04T19:09:28Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Seeking Alpha'}, 'author': 'Jonathan M Block', 'title': 'Biden says vaccination effort will focus on adolescents, hesitant adults (updated)', 'publishedAt': '2021-05-04T19:09:14Z'}
+INFO:root:date={'source': {'id': None, 'name': 'CNET'}, 'author': 'Clifford Colby', 'title': "Biden's next two stimulus bills: 5 ways the new packages could bring you more money - CNET", 'publishedAt': '2021-05-04T20:00:04Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Sean Hannity'}, 'author': 'Mike Rivero', 'title': 'BORDER CHAOS: Five Charged After Agents Find 97 Migrants Inside a Small Texas ‘Stash House’', 'publishedAt': '2021-05-04T19:34:23Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Groups sue over US program allowing pipelines on wetlands', 'publishedAt': '2021-05-04T19:01:08Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Sky Palma', 'title': 'Antifa-obsessed ex-cop gets probation after holding innocent Black door-to-door salesman at gunpoint', 'publishedAt': '2021-05-04T19:10:32Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Raw Story'}, 'author': 'Alex Henderson, AlterNet', 'title': "GOP lawsuits against Biden's COVID-19 relief plan have a major flaw -- according to a constitutional expert", 'publishedAt': '2021-05-04T19:55:20Z'}
+INFO:root:date={'source': {'id': 'the-hill', 'name': 'The Hill'}, 'author': 'Olafimihan Oshin', 'title': 'Kinzinger backs Cheney on criticism of Republican Party', 'publishedAt': '2021-05-04T20:03:26Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': "US congressman: 'Window of opportunity' to engage Maduro", 'publishedAt': '2021-05-04T19:50:07Z'}
+INFO:root:date={'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Aaron Blake', 'title': 'Biden’s ‘owning the libs’ problem on the coronavirus vaccine', 'publishedAt': '2021-05-04T19:20:41Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Josh Marcus', 'title': 'Josh Hawley has no regrets about his MAGA fist pump ahead of the Capitol riot', 'publishedAt': '2021-05-04T20:08:45Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Gustaf Kilander', 'title': 'White House vows to ignore Trump if Facebook reinstates him', 'publishedAt': '2021-05-04T20:14:13Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Benjamin Fearnow', 'title': "Ken Paxton Says He Won't Support Greg Abbott's Re-Election, Calls Ensuing Story 'Fake News'", 'publishedAt': '2021-05-04T19:22:31Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Lawenforcementtoday.com'}, 'author': 'Mike Rivero', 'title': 'Report: Biden’s “Sanctuary Country” policy allowing illegal immigrant sex offenders to be freed onto American streets', 'publishedAt': '2021-05-04T19:07:26Z'}
+INFO:root:date={'source': {'id': 'independent', 'name': 'Independent'}, 'author': 'Via AP news wire', 'title': 'Oil pipeline builder agrees to halt eminent domain lawsuits', 'publishedAt': '2021-05-04T20:45:52Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Toronto Star'}, 'author': 'The Associated Press', 'title': 'Smiling Jimmy Carter seen in photo from Biden visit', 'publishedAt': '2021-05-04T20:12:05Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Investmentwatchblog.com'}, 'author': 'alexmark', 'title': 'Here is What Republican Voters Really Believe in- It’s a Shame the GOP Has No Idea', 'publishedAt': '2021-05-04T19:38:42Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Motley Fool'}, 'author': 'newsfeedback@fool.com (Motley Fool Transcribers)', 'title': 'Premier, Inc. (PINC) Q3 2021 Earnings Call Transcript', 'publishedAt': '2021-05-04T19:30:47Z'}
+INFO:root:date={'source': {'id': None, 'name': 'TPM'}, 'author': 'Summer Concepcion', 'title': 'WH Rips GOP For ‘Blood, Sweat And Tears’ It Has Poured Into Attacking Cheney', 'publishedAt': '2021-05-04T19:19:36Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Post Magazine'}, 'author': 'Reuters, Reuters', 'title': 'Joe Biden’s new coronavirus goal: 70 per cent of US adults to get one vaccine dose by Independence Day', 'publishedAt': '2021-05-04T20:17:00Z'}
+INFO:root:date={'source': {'id': None, 'name': 'Thegatewaypundit.com'}, 'author': 'Jim Hoft', 'title': 'Antrim County Plaintiffs Introduce New Evidence in 2020 Election Case — Experts Were Able to Compromise Data on Data and Flip Votes', 'publishedAt': '2021-05-04T19:49:25Z'}
+INFO:root:date={'source': {'id': 'the-washington-post', 'name': 'The Washington Post'}, 'author': 'Paul Waldman', 'title': 'Is our national crisis over? The right answer is that it doesn’t matter.', 'publishedAt': '2021-05-04T20:04:16Z'}
+INFO:root:date={'source': {'id': 'cbs-news', 'name': 'CBS News'}, 'author': 'Alexander Tin', 'title': 'Your COVID vaccine booster might be a patch or a pill', 'publishedAt': '2021-05-04T19:40:13Z'}
+INFO:root:date={'source': {'id': 'newsweek', 'name': 'Newsweek'}, 'author': 'Nicole Fallert', 'title': "Mitt Romney Praises Liz Cheney for 'Refusing to Lie,' Offers GOP Support", 'publishedAt': '2021-05-04T19:58:00Z'}
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
+INFO:root:Message delivered to articles [0]
