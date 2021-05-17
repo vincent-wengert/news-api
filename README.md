@@ -13,4 +13,4 @@ News-API is a python project using news-api.org and Kafka, MongoDB, Mongo DB Cha
 - set up cron for running producer and consumer in desired interval
 
 ## Usage
-- run the producer and consumer by cron every hour on VM or 
+- run the producer and consumer by cron every hour on VM or like we on a raspberry pi
