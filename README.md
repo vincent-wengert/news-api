@@ -9,6 +9,7 @@ News-API is a python project using news-api.org and Kafka, MongoDB, Mongo DB Cha
 - set up Kafka Cluster and edit the config for connecting the producer and consumer
 - set up Mongo DB Atlas and Collection
 - set up MongoDbAtlasSinkConnector and connect to Mongo DB Atlas Collection
+- create Charts for Collection in Mongo DB Charts
 - set up cron for running producer and consumer in desired interval
 
 ## Usage
